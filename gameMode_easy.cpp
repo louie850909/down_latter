@@ -18,6 +18,7 @@
 #include "score.h"
 #include "hp.h"
 
+/*Game Over‚ÌŽžŽg—p‚·‚é‚½‚ß‚Ì•¶Žš—ñ*/
 Textline g_eblank;
 Textline g_eGameOver;
 Textline g_eblank2;

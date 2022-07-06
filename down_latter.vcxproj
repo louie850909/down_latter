@@ -144,7 +144,6 @@
     <ClCompile Include="collision.cpp" />
     <ClCompile Include="draw.cpp" />
     <ClCompile Include="enemy.cpp" />
-    <ClCompile Include="game.cpp" />
     <ClCompile Include="gameMode_easy.cpp" />
     <ClCompile Include="gameMode_hard.cpp" />
     <ClCompile Include="gameMode_normal.cpp" />
@@ -164,7 +163,6 @@
     <ClInclude Include="collision.h" />
     <ClInclude Include="draw.h" />
     <ClInclude Include="enemy.h" />
-    <ClInclude Include="game.h" />
     <ClInclude Include="gameMode_easy.h" />
     <ClInclude Include="gameMode_hard.h" />
     <ClInclude Include="gameMode_normal.h" />
